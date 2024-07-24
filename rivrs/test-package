@@ -1,0 +1,1 @@
+{"package":{"name":"rivrs/test-package","version":"0.1.0","registry":"https://github.com/Rivrs-Roblox/wally-index","realm":"server","description":"This is a test package.","license":"MIT","authors":[],"include":[],"exclude":[],"private":false},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
